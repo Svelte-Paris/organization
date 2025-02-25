@@ -18,12 +18,12 @@ Raw sources [here](branding/)
 
 - Logo SVG
 
-<img src="branding/svelte-paris-logo.svg" alt="logo" width="100" height="100">
+<img src="branding/svelte-paris-logo.svg" alt="logo" height="100">
 
 
 - Logo PNG
 
-<img src="branding/svelte-paris-logo.png" alt="logo" width="100" height="100">
+<img src="branding/svelte-paris-logo.png" alt="logo" height="120">
 
 - Logo full PNG
 
