@@ -13,11 +13,11 @@ Svelte Paris is a group for anyone who wants to develop and share their knowledg
 
 ## Brand
 
-Raw sources [here](img/)
+Raw sources [here](branding/)
 
 <hr>
 
-LOGO SVG
+Logo SVG
 ![logo](branding/svelte-paris-logo.svg)
 
 Logo PNG
