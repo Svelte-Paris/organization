@@ -15,10 +15,16 @@ Svelte Paris is a group for anyone who wants to develop and share their knowledg
 
 Raw sources [here](branding/)
 
-<hr>
 
-Logo SVG
-![logo](branding/svelte-paris-logo.svg)
+- Logo SVG
 
-Logo PNG
-![logo](branding/svelte-paris-logo.png)
+<img src="branding/svelte-paris-logo.svg" alt="logo" width="100" height="100">
+
+
+- Logo PNG
+
+<img src="branding/svelte-paris-logo.png" alt="logo" width="100" height="100">
+
+- Logo full PNG
+
+<img src="branding/svelte-paris-logo-with-text.png" alt="logo">
