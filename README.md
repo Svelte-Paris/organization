@@ -25,6 +25,6 @@ Raw sources [here](branding/)
 
 <img src="branding/svelte-paris-logo.png" alt="logo" height="120">
 
-- Logo full PNG
+- Logo with text PNG
 
 <img src="branding/svelte-paris-logo-with-text.png" alt="logo">
